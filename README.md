@@ -1,10 +1,12 @@
 # My Coding Journey 🚀
 
-> Daily progress log as I build skills for 
+> Documenting my daily progress in DSA, 
+> Python, and Software Development 
 
 ## 👨‍💻 About
 - Training at **Masai School x IIT Patna** (Feb-Jul 2026)
 - Solving LeetCode daily in **Python**
+-  Documenting my daily progress in DSA, Python, and Software Development
 
 ## 📊 Progress Tracker
 
