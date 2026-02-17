@@ -8,7 +8,7 @@
 | Lesson | Topic | Status | Date |
 |--------|-------|--------|------|
 | 1 | Hello, Python | ✅ Done | Feb 2026 |
-| 2 | Functions and Getting Help | ⏳ Pending | |
+| 2 | Functions and Getting Help | ✅ Done | Feb 2026 |
 | 3 | Booleans and Conditionals | ⏳ Pending | |
 | 4 | Lists | ⏳ Pending | |
 | 5 | Loops and List Comprehensions | ⏳ Pending | |
