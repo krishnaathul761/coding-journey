@@ -14,6 +14,8 @@
 |----------|--------|---------|
 | LeetCode Easy | 100 | 1 ✅ |
 | LeetCode Medium | 50 | 0 |
+| Kaggle Courses | 3 | 1 🔄 |
+| Kaggle Notebooks | 5 | 0 |
 | Projects Built | 3 | 1 ✅ |
 
 ## 🟢 LeetCode Solutions
@@ -22,6 +24,13 @@
 | Day | Problem | Topic | Solution |
 |-----|---------|-------|----------|
 | 1 | Two Sum | HashMap | [View](leetcode/day01_two_sum.py) |
+
+## 🔗 Profiles
+- **GitHub:** github.com/krishnaathul761
+- **LinkedIn:** linkedin.com/in/athulkrishnaatk
+- **LeetCode:** leetcode.com/u/athulkrishna761
+- **Kaggle:** kaggle.com/athulkrishna761
+```
 
 ## 📅 Daily Log
 
