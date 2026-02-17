@@ -35,7 +35,8 @@
 ## 📅 Daily Log
 
 ### February 2026
-- **Day 1:** Solved Two Sum (#1) - learned about HashMaps
+- **Day 1:** Solved Two Sum (#1) - learned HashMaps
+- **Day 2:** Kaggle Python Modules 1 & 2 completed
 
 ## 🔗 Profiles
 - **GitHub:** github.com/krishnaathul761
