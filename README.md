@@ -12,7 +12,7 @@
 
 | Category | Target | Current |
 |----------|--------|---------|
-| LeetCode Easy | 100 | 1 ✅ |
+| LeetCode Easy | 100 | 2 ✅ |
 | LeetCode Medium | 50 | 0 |
 | Kaggle Courses | 3 | 1 🔄 |
 | Kaggle Notebooks | 5 | 0 |
@@ -24,6 +24,7 @@
 | Day | Problem | Topic | Solution |
 |-----|---------|-------|----------|
 | 1 | Two Sum | HashMap | [View](leetcode/day01_two_sum.py) |
+| 2 | Valid Parentheses | Stack | [View](leetcode/day02_valid_parentheses.py) |
 
 ## 🔗 Profiles
 - **GitHub:** github.com/krishnaathul761
@@ -36,7 +37,8 @@
 
 ### February 2026
 - **Day 1:** Solved Two Sum (#1) - learned HashMaps
-- **Day 2:** Kaggle Python Modules 1 & 2 completed
+-            Kaggle Python Modules 1 & 2 completed
+- **Day 2:** Solved Valid Parentheses (#20) - learned Stack data structure
 
 ## 🔗 Profiles
 - **GitHub:** github.com/krishnaathul761
