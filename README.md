@@ -38,7 +38,7 @@
 ### February 2026
 - **Day 1:** Solved Two Sum (#1) - learned HashMaps
 -            Kaggle Python Modules 1 & 2 completed
-- **Day 2:** Solved Valid Parentheses (#20) - learned Stack data structure
+- **Day 2:** Solved Valid Parentheses (#20) - learned Stack data structure, completed Kaggle Modules 3
 
 ## 🔗 Profiles
 - **GitHub:** github.com/krishnaathul761
